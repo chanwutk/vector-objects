@@ -1,6 +1,6 @@
-transformers
-Pillow
-torch
+# cython
+numpy
+pycocotools
 
 jupyterlab
 ipywidgets
