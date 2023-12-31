@@ -1,2 +1,5 @@
 kitti-mots
 mots-challenge
+*.pyc
+__pycache__
+outputs
