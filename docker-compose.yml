@@ -2,7 +2,8 @@ services:
   app:
     build: .
     container_name: vector-objects
-    command: jupyter-lab --ip=0.0.0.0 --port=8889 --allow-root --no-browser -y
+    # command: jupyter-lab --ip=0.0.0.0 --port=8889 --allow-root --no-browser -y
+    tty: true
     environment:
       - PINECONE_API=${PINECONE_API}
     network_mode: host
