@@ -1,6 +1,7 @@
-# cython
 numpy
 pycocotools
+open_clip_torch
+pinecone-client
 
 jupyterlab
 ipywidgets
@@ -8,3 +9,4 @@ jupyterlab-lsp
 python-lsp-server[all]
 jupyterlab-vim
 nbdime
+ipykernel
