@@ -1,0 +1,3 @@
+[submodule "mots_tools"]
+	path = mots_tools
+	url = git@github.com:chanwutk/mots_tools.git
